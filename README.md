@@ -20,7 +20,7 @@ Maestro UI:
 
 ![User Account--Repitoire Management]()
 
-![Song Page -- w/ resources](/images/rough_draft.png)
+![Song Page -- w/ resources](images/rough_draft.png)
 
 ![Communication]()
 
