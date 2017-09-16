@@ -20,7 +20,8 @@ Maestro UI:
 
 ![User Account--Repitoire Management]()
 
-![Song Page -- w/ resources](/home/student/EntJavaRep/IndividualProject/RepitoireManager/images/rough_draft.PNG)
+![Song Page](images/rough_draft.png)
+
 
 ![Communication]()
 
