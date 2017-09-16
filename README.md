@@ -16,9 +16,9 @@ Other:
 
 Maestro UI:
 
-![Browse Music](images/MirrorLakeTrailExample.png)
+![Browse Music]()
 
-![User Account--Repitoire Management](images/MadisonAreaExample.png)
+![User Account--Repitoire Management]()
 
 ![Song Page -- w/ resources]()
 
