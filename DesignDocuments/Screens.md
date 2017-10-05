@@ -39,12 +39,12 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________
 
-### Manage Repitoire 
+### Manage Repertoire 
 
 ![Manage Repitoire](https://github.com/ngrant1/RepertoireManager/blob/master/DesignDocuments/wireframes/ManageRepertoire.PNG)
 
 _________________________________________________________________________________________________________________
-### View Repitoire 
+### View Repertoire 
 
 ![View Repitoire](https://github.com/ngrant1/RepertoireManager/blob/master/DesignDocuments/wireframes/ViewRepertoire.PNG)
 
