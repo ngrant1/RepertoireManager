@@ -19,7 +19,7 @@ Maestro UI:
 
 ![User Account--Repitoire Management]()
 
-![Song Page](../images/rough_draft.png)
+![Song Page](https://github.com/ngrant1/RepitoireManager/blob/master/images/rough_draft.PNG)
 
 
 ![Communication]()
