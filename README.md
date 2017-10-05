@@ -13,14 +13,13 @@ Other:
   * Concert calendar..or purchase tickets info..?
 
   * News feeds of orchestras?
-
 Maestro UI:
 
 ![Browse Music]()
 
 ![User Account--Repitoire Management]()
 
-![Song Page](images/rough_draft.png)
+![Song Page](/images/rough_draft.png)
 
 
 ![Communication]()
