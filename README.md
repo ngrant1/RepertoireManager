@@ -16,13 +16,19 @@ Other:
 
 Wireframes:
 
+* Application Flow
 ![Application Flow](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/ApplicationFlow.PNG)
+
+* Home
 ![Home Page](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/Home.PNG)
 
+* Browse Music
 ![Browse Music](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/BrowseSongs.PNG)
 
+* View/Add Song
 ![View/Add Song](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/ViewAddSong.PNG)
 
+* Song Page Mockup - (Rough Draft)
 ![Song Page](https://github.com/ngrant1/RepitoireManager/blob/master/images/rough_draft.PNG)
 
 
