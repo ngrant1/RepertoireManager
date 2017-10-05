@@ -13,18 +13,19 @@ Other:
   * Concert calendar..or purchase tickets info..?
 
   * News feeds of orchestras?
-Maestro UI:
 
-![Browse Music]()
+Wireframes:
 
-![User Account--Repitoire Management]()
+![Application Flow](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/ApplicationFlow.PNG)
+![Home Page](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/Home.PNG)
+
+![Browse Music](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/BrowseSongs.PNG)
+
+![View/Add Song](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/ViewAddSong.PNG)
 
 ![Song Page](https://github.com/ngrant1/RepitoireManager/blob/master/images/rough_draft.PNG)
 
 
-![Communication]()
-
-![Event Posting]()
 
 
 
