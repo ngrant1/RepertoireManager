@@ -4,55 +4,55 @@ ________________________________________________________________________________
 
 ### Application Flow
 
-![Application Flow](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/ApplicationFlow.PNG)
+![Application Flow](https://github.com/ngrant1/RepertoireManager/blob/master/DesignDocuments/ApplicationFlow.PNG)
 
 _________________________________________________________________________________________________________________
 
 ### Create Account
 
-![Home Page](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/CreateAccount.PNG)
+![Home Page](https://github.com/ngrant1/RepertoireManager/blob/master/DesignDocuments/wireframes/CreateAccount.PNG)
 
 _________________________________________________________________________________________________________________
 
 
 ### Home
 
-![Home Page](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/Home.PNG)
+![Home Page](https://github.com/ngrant1/RepertoireManager/blob/master/DesignDocuments/wireframes/Home.PNG)
 
 _________________________________________________________________________________________________________________
 
 ### Browse Music
 
-![Browse Music](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/BrowseSongs.PNG)
+![Browse Music](https://github.com/ngrant1/RepertoireManager/blob/master/DesignDocuments/wireframes/BrowseSongs.PNG)
 
 _________________________________________________________________________________________________________________
 
 ### View/Add Song
 
-![View/Add Song](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/ViewAddSong.PNG)
+![View/Add Song](https://github.com/ngrant1/RepertoireManager/blob/master/DesignDocuments/wireframes/ViewAddSong.PNG)
 
 _________________________________________________________________________________________________________________
 
 ### Song Page Mockup - (Rough Draft)
 
-![Song Page](https://github.com/ngrant1/RepitoireManager/blob/master/images/rough_draft.PNG)
+![Song Page](https://github.com/ngrant1/RepertoireManager/blob/master/images/rough_draft.PNG)
 
 _________________________________________________________________________________________________________________
 
 ### Manage Repitoire 
 
-![Manage Repitoire](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/ManageRepitoire.PNG)
+![Manage Repitoire](https://github.com/ngrant1/RepertoireManager/blob/master/DesignDocuments/wireframes/ManageRepertoire.PNG)
 
 _________________________________________________________________________________________________________________
 ### View Repitoire 
 
-![View Repitoire](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/ViewRepitoire.PNG)
+![View Repitoire](https://github.com/ngrant1/RepertoireManager/blob/master/DesignDocuments/wireframes/ViewRepertoire.PNG)
 
 _________________________________________________________________________________________________________________
 
 ### Sectional Notes
 
-![Sectional Notes](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/SectionalNotes.PNG)
+![Sectional Notes](https://github.com/ngrant1/RepertoireManagerblob/master/DesignDocuments/wireframes/SectionalNotes.PNG)
 
 _________________________________________________________________________________________________________________
 

@@ -1,13 +1,13 @@
 # Natasha Grant Individual Project
 
-Maestro - Repitoire Managing System 
+Maestro - Repertoire Managing System 
 
 ### Problem Statement
 Problem - 
 Orchestral musicians don't have orchestral feedback and resources while practicing alone. 
 
 Maestro will...
-Enhance musical comprehension and collaboration in orchestral musicians by providing a repitoire managing system. Maestro will allow members to browse categorized music pages and store selected music pages in a personalized account. These dynamic music pages contain tabs of rescources which aid comprehension, such as audio, video, scales, and terminology descriptions. It provides members with a platform to communicate if revisions are made to scores or to schedule sectionals. Members will be updated on meeting times, concert dates, and other orchestra related events. 
+Enhance musical comprehension and collaboration in orchestral musicians by providing a repertoire managing system. Maestro will allow members to browse categorized music pages and store selected music pages in a personalized account. These dynamic music pages contain tabs of rescources which aid comprehension, such as audio, video, scales, and terminology descriptions. It provides members with a platform to communicate if revisions are made to scores or to schedule sectionals. Members will be updated on meeting times, concert dates, and other orchestra related events. 
 
 Other: 
   * Concert calendar..or purchase tickets info..?
@@ -19,31 +19,31 @@ ________________________________________________________________________________
 
 ### Application Flow
 
-![Application Flow](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/ApplicationFlow.PNG)
+![Application Flow](https://github.com/ngrant1/RepertoireManager/blob/master/DesignDocuments/ApplicationFlow.PNG)
 
 _________________________________________________________________________________________________________________
 
 ### Home
 
-![Home Page](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/Home.PNG)
+![Home Page](https://github.com/ngrant1/RepertoireManager/blob/master/DesignDocuments/wireframes/Home.PNG)
 
 _________________________________________________________________________________________________________________
 
 ### Browse Music
 
-![Browse Music](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/BrowseSongs.PNG)
+![Browse Music](https://github.com/ngrant1/RepertoireManager/blob/master/DesignDocuments/wireframes/BrowseSongs.PNG)
 
 _________________________________________________________________________________________________________________
 
 ### View/Add Song
 
-![View/Add Song](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/ViewAddSong.PNG)
+![View/Add Song](https://github.com/ngrant1/RepertoireManager/blob/master/DesignDocuments/wireframes/ViewAddSong.PNG)
 
 _________________________________________________________________________________________________________________
 
 ### Song Page Mockup - (Rough Draft)
 
-![Song Page](https://github.com/ngrant1/RepitoireManager/blob/master/images/rough_draft.PNG)
+![Song Page](https://github.com/ngrant1/RepertoireManager/blob/master/images/rough_draft.PNG)
 
 _________________________________________________________________________________________________________________
 
@@ -60,7 +60,7 @@ ________________________________________________________________________________
 
   * User role: submit score peices, score edits, and events/alerts. 
 
-  * All: Anyone can browse repitoire and view events on site.
+  * All: Anyone can browse repertoire and view events on site.
 
 * Database (MySQL and Hibernate)
   * users/roles/DAOs
