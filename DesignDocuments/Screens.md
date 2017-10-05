@@ -1,32 +1,61 @@
 # Screen Design
 
-### Home Page aka Reports Page
+_________________________________________________________________________________________________________________
 
-![Home Page](wireframes/1-Reports.png)
+### Application Flow
 
-### Add New Trail Report Page
+![Application Flow](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/ApplicationFlow.PNG)
 
-![Add New Report](wireframes/2-NewReport.png)
+_________________________________________________________________________________________________________________
 
-### Add New Trail Page
+### Create Account
 
-![Add New Trail](wireframes/3-NewTrail.png)
+![Home Page](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/CreateAccount.PNG)
 
-### Trail Information Page
+_________________________________________________________________________________________________________________
 
-![View Trail Info](wireframes/4-Trail.png)
 
-### Dialog for Sign In
+### Home
 
-![Sign In Dialog](wireframes/6-Sign-In.png)
+![Home Page](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/Home.PNG)
 
-### Dialog for Sign Up
+_________________________________________________________________________________________________________________
 
-![Sign up Dialog](wireframes/7-SignUp.png)
+### Browse Music
 
-### About Page
+![Browse Music](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/BrowseSongs.PNG)
 
-![About Page](wireframes/8-About.png)
+_________________________________________________________________________________________________________________
+
+### View/Add Song
+
+![View/Add Song](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/ViewAddSong.PNG)
+
+_________________________________________________________________________________________________________________
+
+### Song Page Mockup - (Rough Draft)
+
+![Song Page](https://github.com/ngrant1/RepitoireManager/blob/master/images/rough_draft.PNG)
+
+_________________________________________________________________________________________________________________
+
+### Manage Repitoire 
+
+![Manage Repitoire](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/ManageRepitoire.PNG)
+
+_________________________________________________________________________________________________________________
+### View Repitoire 
+
+![View Repitoire](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/ViewRepitoire.PNG)
+
+_________________________________________________________________________________________________________________
+
+### Sectional Notes
+
+![Sectional Notes](https://github.com/ngrant1/RepitoireManager/blob/master/DesignDocuments/wireframes/SectionalNotes.PNG)
+
+_________________________________________________________________________________________________________________
+
 
 
 

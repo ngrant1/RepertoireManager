@@ -9,15 +9,15 @@
 - [X] Begin project plan
 
 ### Week 2
-- [ ] Document application flow - wireframes have clickable links in the online version.
-- [ ] Complete screen design (on paper)
+- [x] Document application flow - wireframes have clickable links in the online version.
+- [x] Complete screen design (on paper)
 - [ ] Create project structure in IntelliJ
-- [ ] Add project to repository
+- [x] Add project to repository
 - [ ] Deploy application to Openshift
 - [ ] Complete database design
 - [ ] Begin creating JSPs
-- [ ] Time log entries
-- [ ] Complete project plan. Based on the design should be able to lay out 
+- [x] Time log entries
+- [x] Complete project plan. Based on the design should be able to lay out 
 more detail.
 
 ### Week 3
