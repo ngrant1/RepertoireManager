@@ -2,6 +2,12 @@
 
 _________________________________________________________________________________________________________________
 
+### Entity Relationship Diagram
+
+![ERD](https://github.com/ngrant1/RepertoireManager/blob/master/DesignDocuments/ERD.png)
+
+_________________________________________________________________________________________________________________
+
 ### Application Flow
 
 ![Application Flow](https://github.com/ngrant1/RepertoireManager/blob/master/DesignDocuments/ApplicationFlow.PNG)
@@ -41,12 +47,12 @@ ________________________________________________________________________________
 
 ### Manage Repertoire 
 
-![Manage Repitoire](https://github.com/ngrant1/RepertoireManager/blob/master/DesignDocuments/wireframes/ManageRepertoire.PNG)
+![Manage Repertoire](https://github.com/ngrant1/RepertoireManager/blob/master/DesignDocuments/wireframes/ManageRepertoire.PNG)
 
 _________________________________________________________________________________________________________________
 ### View Repertoire 
 
-![View Repitoire](https://github.com/ngrant1/RepertoireManager/blob/master/DesignDocuments/wireframes/ViewRepertoire.PNG)
+![View Repertoire](https://github.com/ngrant1/RepertoireManager/blob/master/DesignDocuments/wireframes/ViewRepertoire.PNG)
 
 _________________________________________________________________________________________________________________
 
