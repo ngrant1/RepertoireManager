@@ -8,6 +8,7 @@ import org.hibernate.Session;
 import org.hibernate.Transaction;
 import org.hibernate.criterion.Restrictions;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -87,7 +88,7 @@ public class UserDao {
      * @return id of the inserted user
      */
 
-    public int insert(User user) {
+ /**   public int insert(User user) {
         int id = 0;
         Transaction transaction = null;
         Session session = null;
@@ -111,7 +112,7 @@ public class UserDao {
         }
         return id;
     }
-
+**/
     /** save  user
      * @param user user to update
      */

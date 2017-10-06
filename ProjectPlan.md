@@ -11,21 +11,21 @@
 ### Week 2
 - [x] Document application flow - wireframes have clickable links in the online version.
 - [x] Complete screen design (on paper)
-- [ ] Create project structure in IntelliJ
+- [x] Create project structure in IntelliJ
 - [x] Add project to repository
 - [ ] Deploy application to Openshift
-- [ ] Complete database design
-- [ ] Begin creating JSPs
+- [x] Complete database design
+- [x] Begin creating JSPs
 - [x] Time log entries
 - [x] Complete project plan. Based on the design should be able to lay out 
 more detail.
 
 ### Week 3
 - [ ] Complete remaining JSPs
-- [ ] Add in bootstrap
+- [x] Add in bootstrap
 - [ ] Create database and all tables/columns locally
 - [ ] Time log entries
-- [ ] Determine independent research topic
+- [x] Determine independent research topic
 - [ ] Create class diagram
 - [ ] Set up logging
 - [ ] Set up unit testing
