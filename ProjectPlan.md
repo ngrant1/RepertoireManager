@@ -23,8 +23,8 @@ more detail.
 ### Week 3
 - [ ] Complete remaining JSPs
 - [x] Add in bootstrap
-- [ ] Create database and all tables/columns locally
-- [ ] Time log entries
+- [x] Create database and all tables/columns locally
+- [x] Time log entries
 - [x] Determine independent research topic
 - [ ] Create class diagram
 - [ ] Set up logging

@@ -10,3 +10,4 @@
 | 9/13/17| Set up project repository, write problem statement, time log, technologies used| .5 | Vague/unrealistic planning|
 | 9/15/17| Set up project repository, write problem statement, time log, technologies used| 1 |Decided on a practical project plan |
 | 10/04/17| Wireframes, mockups, and application flow| 3 | |
+| 10/05/17| Created: project structure, jsps, servlet, database design, database tables and columns locally. Edited all design documents: time log, project planning, added bootstrap...| 5? | |
