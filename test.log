@@ -1,0 +1,54 @@
+2017-10-09 16:53:57,808 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 16:54:00,485 2677 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 1054, SQLState: 42S22
+2017-10-09 16:54:00,485 2677 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Unknown column 'this_.userID' in 'field list'
+2017-10-09 16:59:48,439 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 16:59:51,019 2580 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 1054, SQLState: 42S22
+2017-10-09 16:59:51,019 2580 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Unknown column 'this_.userID' in 'field list'
+2017-10-09 17:14:07,087 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 17:14:09,330 2243 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 1054, SQLState: 42S22
+2017-10-09 17:14:09,331 2244 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Unknown column 'this_.userID' in 'field list'
+2017-10-09 17:19:50,077 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 17:19:52,520 2443 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 1054, SQLState: 42S22
+2017-10-09 17:19:52,520 2443 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Unknown column 'this_.userID' in 'field list'
+2017-10-09 17:21:43,531 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 17:21:45,864 2333 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 1054, SQLState: 42S22
+2017-10-09 17:21:45,866 2335 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Unknown column 'this_.userID' in 'field list'
+2017-10-09 17:31:14,633 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 17:31:16,741 2108 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 1054, SQLState: 42S22
+2017-10-09 17:31:16,742 2109 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Unknown column 'this_.userID' in 'field list'
+2017-10-09 17:46:31,238 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 17:46:33,452 2214 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 1054, SQLState: 42S22
+2017-10-09 17:46:33,454 2216 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Unknown column 'this_.email' in 'field list'
+2017-10-09 17:49:20,975 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 17:49:23,404 2429 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 1054, SQLState: 42S22
+2017-10-09 17:49:23,405 2430 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Unknown column 'this_.email' in 'field list'
+2017-10-09 17:52:48,664 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 17:53:01,808 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 17:53:04,096 2288 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 1054, SQLState: 42S22
+2017-10-09 17:53:04,096 2288 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Unknown column 'this_.email' in 'field list'
+2017-10-09 17:53:55,788 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 17:53:58,334 2546 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 1054, SQLState: 42S22
+2017-10-09 17:53:58,336 2548 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Unknown column 'this_.instrument' in 'field list'
+2017-10-09 17:55:18,186 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 17:55:20,180 1994 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 1054, SQLState: 42S22
+2017-10-09 17:55:20,180 1994 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Unknown column 'this_.instrument' in 'field list'
+2017-10-09 17:57:58,208 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 18:02:31,815 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 18:02:34,054 2239 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 1054, SQLState: 42S22
+2017-10-09 18:02:34,055 2240 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Unknown column 'this_.email' in 'field list'
+2017-10-09 18:09:41,033 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 20:25:38,449 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 20:27:01,505 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 20:30:49,075 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 20:31:27,665 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 20:31:42,243 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 20:38:57,709 1    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 20:39:33,206 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 20:39:55,616 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 20:40:39,237 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 20:45:23,462 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 20:46:55,293 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 20:48:12,336 1    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 20:48:58,477 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 20:50:04,648 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2017-10-09 20:50:49,964 0    [main] WARN  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000402: Using Hibernate built-in connection pool (not for production use!)

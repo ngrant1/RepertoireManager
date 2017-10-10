@@ -12,8 +12,14 @@ import static java.time.LocalDate.now;
 /**
  * A class to represent a user.
  *
- * @author pwaite
+ * @author Natasha Grant
  */
+
+
+//TODO create the user entity to represent a user in your user table.
+//TODO Remember to include a no argument constructor and publice getters and setters
+//TODO Add hibernate annotations to allow mapping from your table to the entity
+// Note: a LocalDate converter has been provided in the util package in case you need it
 @Entity
 @Table(name = "users")
 public class User {
@@ -24,19 +30,19 @@ public class User {
     @Column(name="last_name")
     private String lastName;
 
+    @Column(name="email")
+    private String emailAddress;
+
+    @Column(name="instrument")
+    private String instrument;
+
     @Id
     @GeneratedValue(generator="increment")
     @GenericGenerator(name="increment", strategy = "increment")
     @Column(name = "id")
     private int userid;
 
-    @Column(name = "date_of_birth")
-    @Convert(converter = LocalDateAttributeConverter.class)
-    private LocalDate dateOfBirth;
 
-    @Column(name = "status")
-    @Enumerated
-    private Status status;
 
     /**
      * Instantiates a new User.
@@ -50,14 +56,17 @@ public class User {
      * @param firstName   the first name
      * @param lastName    the last name
      * @param userid      the userid
-     * @param dateOfBirth the date of birth
+     * @param emailAddress the user email address
+     * @param instrument  the user instrument
      */
-    public User(String firstName, String lastName, int userid, LocalDate dateOfBirth, Status status) {
+    public User(String firstName, String lastName, String emailAddress, String instrument, int userid) {
         this.firstName = firstName;
         this.lastName = lastName;
+        this.emailAddress = emailAddress;
+        this.instrument = instrument;
         this.userid = userid;
-        this.dateOfBirth = dateOfBirth;
-        this.status = status;
+
+
     }
 
     /**
@@ -65,31 +74,45 @@ public class User {
      *
      * @return the int
      */
-    public int calculateAge() {
+/**    public int calculateAge() {
         if (dateOfBirth != null) {
             return Period.between(dateOfBirth, now()).getYears();
         } else {
             return 0;
         }
 
+    }**/
+
+    /**
+     * Gets instrument
+     * @return the instrument
+     */
+    public String getInstrument() {
+        return instrument;
     }
 
     /**
-     * Gets date of birth.
-     *
-     * @return the date of birth
+     * Sets the instrument
+     * @param instrument
      */
-    public LocalDate getDateOfBirth() {
-        return dateOfBirth;
+    public void setInstrument(String instrument) {
+        this.instrument = instrument;
     }
 
     /**
-     * Sets date of birth.
-     *
-     * @param dateOfBirth the date of birth
+     * Gets the email address
+     * @return the email address
      */
-    public void setDateOfBirth(LocalDate dateOfBirth) {
-        this.dateOfBirth = dateOfBirth;
+    public String getEmailAddress() {
+         return emailAddress;
+    }
+
+    /**
+     * Sets the email address
+     * @param emailAddress
+     */
+    public void setEmailAddress(String emailAddress) {
+        this.emailAddress = emailAddress;
     }
 
     /**
@@ -146,22 +169,15 @@ public class User {
         this.userid = userid;
     }
 
-    public Status getStatus() {
-        return status;
-    }
-
-    public void setStatus(Status status) {
-        this.status = status;
-    }
 
     @Override
     public String toString() {
         return "User{" +
                 "firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
+                ", emailAddress='" + emailAddress + '\'' +
+                ", instrument='" + instrument + '\'' +
                 ", userid=" + userid +
-                ", dateOfBirth=" + dateOfBirth +
-                ", status=" + status +
                 '}';
     }
 }

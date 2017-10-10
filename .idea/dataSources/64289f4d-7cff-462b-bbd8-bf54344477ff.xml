@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="maestro@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.4">
+    <root id="1"/>
+    <schema id="2" parent="1" name="maestro">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="information_schema"/>
+    <schema id="4" parent="1" name="mysql"/>
+    <schema id="5" parent="1" name="performance_schema"/>
+    <schema id="6" parent="1" name="phpmyadmin"/>
+    <schema id="7" parent="1" name="sample"/>
+    <schema id="8" parent="1" name="sys"/>
+    <schema id="9" parent="1" name="users"/>
+    <table id="10" parent="2" name="Composer"/>
+    <table id="11" parent="2" name="Genre"/>
+    <table id="12" parent="2" name="Instrument"/>
+    <table id="13" parent="2" name="Organization"/>
+    <table id="14" parent="2" name="Repertoire_Folder"/>
+    <table id="15" parent="2" name="Roles"/>
+    <table id="16" parent="2" name="Sectional_Notes"/>
+    <table id="17" parent="2" name="Song"/>
+    <table id="18" parent="2" name="users"/>
+    <column id="19" parent="10" name="composerID">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="20" parent="10" name="first_name">
+      <Position>2</Position>
+      <DataType>varchar(40)|0</DataType>
+    </column>
+    <column id="21" parent="10" name="last_name">
+      <Position>3</Position>
+      <DataType>varchar(40)|0</DataType>
+    </column>
+    <column id="22" parent="10" name="birthdate">
+      <Position>4</Position>
+      <DataType>date|0</DataType>
+    </column>
+    <column id="23" parent="10" name="nationality">
+      <Position>5</Position>
+      <DataType>varchar(40)|0</DataType>
+    </column>
+    <column id="24" parent="10" name="biography">
+      <Position>6</Position>
+      <DataType>varchar(100)|0</DataType>
+    </column>
+    <key id="25" parent="10" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>composerID</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="26" parent="11" name="genreID">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="27" parent="11" name="name">
+      <Position>2</Position>
+      <DataType>varchar(40)|0</DataType>
+    </column>
+    <key id="28" parent="11" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>genreID</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="29" parent="12" name="instrumentID">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <key id="30" parent="12" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>instrumentID</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="31" parent="13" name="organizationID">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <key id="32" parent="13" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>organizationID</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="33" parent="14" name="repertoire_folder_ID">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <key id="34" parent="14" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>repertoire_folder_ID</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="35" parent="15" name="roleID">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="36" parent="15" name="name">
+      <Position>2</Position>
+      <DataType>varchar(40)|0</DataType>
+    </column>
+    <key id="37" parent="15" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>roleID</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="38" parent="16" name="NoteID">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="39" parent="16" name="column_2">
+      <Position>2</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <key id="40" parent="16" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>NoteID</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="41" parent="17" name="SongID">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="42" parent="17" name="Title">
+      <Position>2</Position>
+      <DataType>varchar(50)|0</DataType>
+    </column>
+    <column id="43" parent="17" name="search_terms">
+      <Position>3</Position>
+      <DataType>varchar(100)|0</DataType>
+    </column>
+    <column id="44" parent="17" name="composer_name">
+      <Position>4</Position>
+      <DataType>varchar(50)|0</DataType>
+    </column>
+    <column id="45" parent="17" name="video">
+      <Position>5</Position>
+      <DataType>text|0</DataType>
+    </column>
+    <column id="46" parent="17" name="audio">
+      <Position>6</Position>
+      <DataType>text|0</DataType>
+    </column>
+    <column id="47" parent="17" name="score">
+      <Position>7</Position>
+      <DataType>blob|0</DataType>
+    </column>
+    <column id="48" parent="17" name="terminology">
+      <Position>8</Position>
+      <DataType>varchar(100)|0</DataType>
+    </column>
+    <column id="49" parent="17" name="description">
+      <Position>9</Position>
+      <DataType>varchar(500)|0</DataType>
+    </column>
+    <column id="50" parent="17" name="genreID">
+      <Position>10</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="51" parent="17" name="time_period">
+      <Position>11</Position>
+      <DataType>varchar(30)|0</DataType>
+    </column>
+    <key id="52" parent="17" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>SongID</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="53" parent="18" name="id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="54" parent="18" name="first_name">
+      <Position>2</Position>
+      <DataType>varchar(30)|0</DataType>
+    </column>
+    <column id="55" parent="18" name="last_name">
+      <Position>3</Position>
+      <DataType>varchar(30)|0</DataType>
+    </column>
+    <column id="56" parent="18" name="email">
+      <Position>4</Position>
+      <DataType>varchar(30)|0</DataType>
+    </column>
+    <column id="57" parent="18" name="instrument">
+      <Position>5</Position>
+      <DataType>varchar(30)|0</DataType>
+    </column>
+    <key id="58" parent="18" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+  </database-model>
+</dataSource>
