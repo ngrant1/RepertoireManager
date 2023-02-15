@@ -7,7 +7,7 @@ Problem -
 Orchestral musicians don't have orchestral feedback and resources while practicing alone. 
 
 Maestro will...
-Enhance musical comprehension and collaboration in orchestral musicians by providing a repertoire managing system. Maestro will allow members to browse categorized music pages and store selected music pages in a personalized account. These dynamic music pages contain tabs of rescources which aid comprehension, such as audio, video, scales, and terminology descriptions. It provides members with a platform to communicate if revisions are made to scores or to schedule sectionals. Members will be updated on meeting times, concert dates, and other orchestra related events. 
+Enhance musical comprehension and collaboration in orchestral musicians by providing a social repertoire managing platform. Maestro will allow members to scan and upload their edited score to their orchestral group. The conductor approved scores become accessible to other members. This streamlines collaboration for more uniform sections. Members can also browse categorized music archives and store them in a personalized account. These dynamic archives contain tabs of rescources which aid comprehension, such as audio, video, scales, and terminology descriptions. Members will be updated on meeting times, concert dates, and other orchestra related events through the group calendar in addition to a messaging system. 
 
 Other: 
   * Concert calendar..or purchase tickets info..?
